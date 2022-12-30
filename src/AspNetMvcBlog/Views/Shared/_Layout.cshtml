@@ -1,49 +1,161 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
+    <title>@ViewBag.Title - ASP.NET Blog</title>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - AspNetMvcBlog</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/AspNetMvcBlog.styles.css" asp-append-version="true" />
+    <meta name="author" content="Michel Banagouro" />
+    <meta name="description" content="Blog desenvolvido no curso de ASP.NET MVC" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" />
+    <link href="~/libs/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+    <link href="~/libs/bootstrap/themes/bootstrap.readable.min.css" rel="stylesheet" media="screen" />
+    <link href="~/css/custom.css" rel="stylesheet" media="screen" />
+    <link href="~/libs/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    @RenderSection("CssPage", false)
+
+    <!--[if IE 7]>
+        <link rel="stylesheet" href="~/libs/font-awesome/css/font-awesome-ie7.min.css">
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <script src="~/js/html5shiv.js"></script>
+        <script src="~/js/respond.min.js"></script>
+    <![endif]-->
 </head>
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">AspNetMvcBlog</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
+    <header class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="row">
+                <div class="navbar-header col-md-12">
+                    <a class="navbar-brand" href="@Url.RouteUrl("Posts.GetAll")">
+                        <h1>ASP.NET Blog</h1>
+                    </a>
                 </div>
             </div>
-        </nav>
+        </div>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+    <div id="main" class="container">
+        <div class="row">
+            <div class="col-xs-12 col-md-8">
+                @RenderBody()
+            </div>
+
+            <div class="col-md-4">
+                <section>
+                    <div class="profile">
+                        <a href="#"><img src="~/images/profile.jpg" alt="Your name" class="img-circle" width="120"></a>
+                        <p class="lead">Your name</p>
+                    </div>
+                </section>
+
+                <section>
+                    <form role="search" class="form-group">
+                        <div class="input-group">
+                            <input type="text" class="form-control" name="term" placeholder="Search...">
+                            <span class="input-group-btn">
+                                <button class="btn btn-primary" type="submit">Go!</button>
+                            </span>
+                        </div>
+                    </form>
+                </section>
+
+                <section class="panel panel-default">
+                    <div class="panel-heading">Categories</div>
+                    <ul class="list-group">
+                        <li class="list-group-item"><a href="#">Business</a></li>
+                        <li class="list-group-item"><a href="#">Travel</a></li>
+                        <li class="list-group-item"><a href="#">Startup</a></li>
+                        <li class="list-group-item"><a href="#">Health</a></li>
+                    </ul>
+                </section>
+
+                <section class="panel panel-default">
+                    <div class="panel-heading">Tags</div>
+                    <ul>
+                        <li class="list-group-item">
+                            <a href="#"><span class="label label-primary">travel</span></a>
+                            <a href="#"><span class="label label-primary">business</span></a>
+                            <a href="#"><span class="label label-primary">startup</span></a>
+                            <a href="#"><span class="label label-primary">health</span></a>
+                        </li>
+                    </ul>
+                </section>
+
+                <section class="panel panel-default">
+                    <div class="panel-heading">Archives</div>
+                    <ul class="list-group">
+                        <li class="list-group-item"><a href="#">Popular Post</a></li>
+                        <li class="list-group-item"><a href="#">Last week</a></li>
+                        <li class="list-group-item"><a href="#">Last mouth</a></li>
+                        <li class="list-group-item"><a href="#">Last year</a></li>
+                    </ul>
+                </section>
+            </div>
+        </div>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer>
         <div class="container">
-            &copy; 2022 - AspNetMvcBlog - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="col-md-3">
+                        <ul class="list-unstyled">
+                            <li>Blog
+                            <li>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About</a></li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <ul class="list-unstyled">
+                            <li>Archives
+                            <li>
+                            <li><a href="#">Popular posts</a></li>
+                            <li><a href="#">Last week</a></li>
+                            <li><a href="#">Last month</a></li>
+                            <li><a href="#">Last year</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <ul class="list-unstyled">
+                            <li>Social
+                            <li>
+                            <li><a href="#">Facebook</a></li>
+                            <li><a href="#">Twitter</a></li>
+                            <li><a href="#">Google+</a></li>
+                            <li><a href="#">LinkedIn</a></li>
+                            <li><a href="#">GitHub</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <ul class="list-unstyled">
+                            <li>Column 4
+                            <li>
+                            <li><a href="#">Link 1</a></li>
+                            <li><a href="#">Link 2</a></li>
+                            <li><a href="#">Link 3</a></li>
+                            <li><a href="#">Link 4</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="col-md-8">
+                        <a href="#">Terms of Service</a>
+                        <a href="#">Privacy</a>
+                        <a href="#">Security</a>
+                    </div>
+                    <div class="col-md-4">
+                        <p class="muted pull-right">© 2022 Company Name. All rights reserved</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+
+    <script src="~/js/jquery-2.0.3.min.js"></script>
+    <script src="~/libs/bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
