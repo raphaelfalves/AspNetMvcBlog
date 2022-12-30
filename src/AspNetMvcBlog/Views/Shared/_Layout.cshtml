@@ -11,7 +11,6 @@
     <link href="~/libs/bootstrap/themes/bootstrap.readable.min.css" rel="stylesheet" media="screen" />
     <link href="~/css/custom.css" rel="stylesheet" media="screen" />
     <link href="~/libs/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    @RenderSection("CssPage", false)
 
     <!--[if IE 7]>
         <link rel="stylesheet" href="~/libs/font-awesome/css/font-awesome-ie7.min.css">
@@ -22,17 +21,11 @@
     <![endif]-->
 </head>
 <body>
-    <header class="navbar navbar-default navbar-static-top">
-        <div class="container">
-            <div class="row">
-                <div class="navbar-header col-md-12">
-                    <a class="navbar-brand" href="@Url.RouteUrl("Posts.GetAll")">
-                        <h1>ASP.NET Blog</h1>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </header>
+    @await Html.PartialAsync("Parts/_Header.cshtml")
+<!--    Usando PartialAsync porque em alguns cenarios seu equivalente sincrono
+        Partial trava e ele será removido em algumas atualizações.
+-->
+
     <div id="main" class="container">
         <div class="row">
             <div class="col-xs-12 col-md-8">
@@ -40,120 +33,12 @@
             </div>
 
             <div class="col-md-4">
-                <section>
-                    <div class="profile">
-                        <a href="#"><img src="~/images/profile.jpg" alt="Your name" class="img-circle" width="120"></a>
-                        <p class="lead">Your name</p>
-                    </div>
-                </section>
-
-                <section>
-                    <form role="search" class="form-group">
-                        <div class="input-group">
-                            <input type="text" class="form-control" name="term" placeholder="Search...">
-                            <span class="input-group-btn">
-                                <button class="btn btn-primary" type="submit">Go!</button>
-                            </span>
-                        </div>
-                    </form>
-                </section>
-
-                <section class="panel panel-default">
-                    <div class="panel-heading">Categories</div>
-                    <ul class="list-group">
-                        <li class="list-group-item"><a href="#">Business</a></li>
-                        <li class="list-group-item"><a href="#">Travel</a></li>
-                        <li class="list-group-item"><a href="#">Startup</a></li>
-                        <li class="list-group-item"><a href="#">Health</a></li>
-                    </ul>
-                </section>
-
-                <section class="panel panel-default">
-                    <div class="panel-heading">Tags</div>
-                    <ul>
-                        <li class="list-group-item">
-                            <a href="#"><span class="label label-primary">travel</span></a>
-                            <a href="#"><span class="label label-primary">business</span></a>
-                            <a href="#"><span class="label label-primary">startup</span></a>
-                            <a href="#"><span class="label label-primary">health</span></a>
-                        </li>
-                    </ul>
-                </section>
-
-                <section class="panel panel-default">
-                    <div class="panel-heading">Archives</div>
-                    <ul class="list-group">
-                        <li class="list-group-item"><a href="#">Popular Post</a></li>
-                        <li class="list-group-item"><a href="#">Last week</a></li>
-                        <li class="list-group-item"><a href="#">Last mouth</a></li>
-                        <li class="list-group-item"><a href="#">Last year</a></li>
-                    </ul>
-                </section>
+                @await Html.PartialAsync("Parts/_Sidebar.cshtml")
             </div>
         </div>
     </div>
 
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="col-md-3">
-                        <ul class="list-unstyled">
-                            <li>Blog
-                            <li>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Contact</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3">
-                        <ul class="list-unstyled">
-                            <li>Archives
-                            <li>
-                            <li><a href="#">Popular posts</a></li>
-                            <li><a href="#">Last week</a></li>
-                            <li><a href="#">Last month</a></li>
-                            <li><a href="#">Last year</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3">
-                        <ul class="list-unstyled">
-                            <li>Social
-                            <li>
-                            <li><a href="#">Facebook</a></li>
-                            <li><a href="#">Twitter</a></li>
-                            <li><a href="#">Google+</a></li>
-                            <li><a href="#">LinkedIn</a></li>
-                            <li><a href="#">GitHub</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-3">
-                        <ul class="list-unstyled">
-                            <li>Column 4
-                            <li>
-                            <li><a href="#">Link 1</a></li>
-                            <li><a href="#">Link 2</a></li>
-                            <li><a href="#">Link 3</a></li>
-                            <li><a href="#">Link 4</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <hr>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="col-md-8">
-                        <a href="#">Terms of Service</a>
-                        <a href="#">Privacy</a>
-                        <a href="#">Security</a>
-                    </div>
-                    <div class="col-md-4">
-                        <p class="muted pull-right">© 2022 Company Name. All rights reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+    @await Html.PartialAsync("Parts/_Footer.cshtml")
 
     <script src="~/js/jquery-2.0.3.min.js"></script>
     <script src="~/libs/bootstrap/js/bootstrap.min.js"></script>
