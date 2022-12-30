@@ -38,7 +38,7 @@ digital.
 
 ### Professor : Michel Banagouro
 
-<img width="150" align="left" src="https://raw.githubusercontent.com/raphael-rfa/AspNetMvcBlog/main/Imagens/michelimg.png" alt="foto do professor que vai ser meu senior"/> 
+<img width="150" align="left" src="https://github.com/raphael-rfa/AspNetMvcBlog/blob/main/imagens/michelimg.png" alt="foto do professor que vai ser meu senior"/> 
 
 Co-Founder / CTO / Arquiteto de Software / ASP.NET Sênior na Leanwork Group
 
