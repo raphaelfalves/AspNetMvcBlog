@@ -1,6 +1,7 @@
 ﻿using AspNetMvcBlog.Data;
 using AspNetMvcBlog.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace AspNetMvcBlog.Controllers
@@ -16,19 +17,18 @@ namespace AspNetMvcBlog.Controllers
 
         public IActionResult GetAll()
         {
-            var post = _context.Posts;
+            var post = _context.Posts.OrderByDescending(p => p.PublisheOn);
             return View(post);
         }
 
-        public IActionResult Privacy()
+        [Route("Posts/{Permalink}")]
+        public IActionResult Details(string? Permalink)
         {
-            return View();
+            var post = _context.Posts
+                .FirstOrDefault(p => p.Permalink == Permalink);
+            
+            return View(post);
         }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+       
     }
 }

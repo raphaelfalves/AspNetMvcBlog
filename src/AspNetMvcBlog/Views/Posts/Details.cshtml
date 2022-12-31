@@ -1,0 +1,17 @@
+﻿@model AspNetMvcBlog.Models.Entitys.Posts
+
+@{
+    ViewData["title"] = @Model.Title;
+}
+
+<section>
+    <div class="post">
+        <h2>@Model.Title</h2>
+        <p class="text-muted">
+            Posted on <a href="#">@Model.PublisheOn.ToShortDateString()</a>
+        </p>
+        <div>
+            @Model.Content
+        </div>
+    </div>
+</section>
