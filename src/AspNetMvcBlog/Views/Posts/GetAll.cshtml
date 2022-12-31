@@ -4,7 +4,22 @@
     ViewData["Title"] = "Home Page";
 }
 
-@foreach(var post in Model)
-{
-    <h1>@post.Title</h1>
-}
+<section id="posts">
+    @foreach (var item in Model)
+    {
+        <div class="post">
+            <h2><a asp-action="Details" asp-route-Permalink="@item.Permalink">@item.Title</a></h2>
+            <p class="text-muted">
+                Posted on <a href="#">@item.PublisheOn.ToShortDateString()</a>
+            </p>
+            <p>
+                @item.Summary
+            </p>
+            <p>
+                <a class="btn btn-primary btn-sm" asp-action="Details" asp-route-Permalink="@item.Permalink">
+                    <i class="glyphicon glyphicon-circle-arrow-right"></i>&nbsp; Read more 
+                </a>
+            </p>
+        </div>
+    }
+</section>
