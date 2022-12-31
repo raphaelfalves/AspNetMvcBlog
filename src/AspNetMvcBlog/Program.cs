@@ -1,3 +1,6 @@
+using AspNetMvcBlog.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace AspNetMvcBlog
 {
     public class Program
@@ -5,6 +8,8 @@ namespace AspNetMvcBlog
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AddDbContext<BlogContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
@@ -28,7 +33,7 @@ namespace AspNetMvcBlog
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Posts}/{action=GetAll}/{id?}");
 
             app.Run();
         }

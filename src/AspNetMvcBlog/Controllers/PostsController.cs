@@ -1,21 +1,23 @@
-﻿using AspNetMvcBlog.Models;
+﻿using AspNetMvcBlog.Data;
+using AspNetMvcBlog.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace AspNetMvcBlog.Controllers
 {
-    public class HomeController : Controller
+    public class PostsController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly BlogContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public PostsController(BlogContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        public IActionResult GetAll()
         {
-            return View();
+            var post = _context.Posts;
+            return View(post);
         }
 
         public IActionResult Privacy()
