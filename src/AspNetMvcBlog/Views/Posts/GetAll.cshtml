@@ -1,0 +1,10 @@
+﻿@model IEnumerable<AspNetMvcBlog.Models.Entitys.Posts>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach(var post in Model)
+{
+    <h1>@post.Title</h1>
+}

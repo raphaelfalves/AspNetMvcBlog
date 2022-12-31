@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ya9UCeS2Tr/dKwwRX1HSh2MLiHQ9oppgZAUKvxAjOms=",
+  "Hash": "atjhjT/2zr3ftEL+Fwu4cqqmMO90dMQYVPHhaPHCnLw=",
   "Source": "AspNetMvcBlog",
   "BasePath": "_content/AspNetMvcBlog",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AspNetMvcBlog\\wwwroot",
       "Source": "AspNetMvcBlog",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AspNetMvcBlog.styles.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AspNetMvcBlog.styles.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "AspNetMvcBlog.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AspNetMvcBlog.styles.css"
+      "OriginalItemSpec": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AspNetMvcBlog.styles.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspNetMvcBlog.bundle.scp.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspNetMvcBlog.bundle.scp.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "AspNetMvcBlog.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspNetMvcBlog.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspNetMvcBlog.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\css\\custom.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\css\\custom.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "css/custom.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\favicon.ico",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\images\\profile.jpg",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\images\\profile.jpg",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "images/profile.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\images\\threedots.png",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\images\\threedots.png",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "images/threedots.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\threedots.png"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\js\\blog.contact.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\blog.contact.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "js/blog.contact.js",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\js\\blog.contact.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\js\\blog.post.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\blog.post.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "js/blog.post.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\blog.post.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\js\\html5shiv.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\html5shiv.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "js/html5shiv.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\js\\html5shiv.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.intellisense.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.intellisense.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "js/jquery-2.0.3.intellisense.js",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-2.0.3.intellisense.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "js/jquery-2.0.3.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-2.0.3.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.min.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.min.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "js/jquery-2.0.3.min.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-2.0.3.min.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.min.map",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.min.map",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "js/jquery-2.0.3.min.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-2.0.3.min.map"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\js\\respond.min.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\respond.min.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "js/respond.min.js",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\js\\respond.min.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/css/bootstrap-theme.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.min.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.min.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/css/bootstrap-theme.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\themes\\bootstrap.readable.min.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\themes\\bootstrap.readable.min.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/bootstrap/themes/bootstrap.readable.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\bootstrap\\themes\\bootstrap.readable.min.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/css/font-awesome.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/css/font-awesome-ie7.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.min.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.min.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/css/font-awesome-ie7.min.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.min.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\FontAwesome.otf",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\FontAwesome.otf",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/font/FontAwesome.otf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\font\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.eot",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/font/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.svg",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/font/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.ttf",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/font/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.woff",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/font/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\bootstrap.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\bootstrap.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/bootstrap.less",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\bootstrap.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\core.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\core.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/core.less",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\core.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\extras.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\extras.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/extras.less",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\extras.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\font-awesome.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\font-awesome.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/font-awesome.less",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\font-awesome-ie7.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\font-awesome-ie7.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/font-awesome-ie7.less",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\font-awesome-ie7.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\icons.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\icons.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/icons.less",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\icons.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\mixins.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\mixins.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/mixins.less",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\mixins.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\path.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\path.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/path.less",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\path.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\variables.less",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\variables.less",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/less/variables.less",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\less\\variables.less"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_bootstrap.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_bootstrap.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/_bootstrap.scss",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\_bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_core.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_core.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/_core.scss",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_extras.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_extras.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/_extras.scss",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\_extras.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_icons.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_icons.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/_icons.scss",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_mixins.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/_mixins.scss",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_path.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_path.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/_path.scss",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_variables.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/_variables.scss",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\font-awesome.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\font-awesome.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/font-awesome.scss",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\font-awesome-ie7.scss",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\font-awesome-ie7.scss",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/font-awesome/scss/font-awesome-ie7.scss",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\font-awesome\\scss\\font-awesome-ie7.scss"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.css",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.css",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/validate/jquery.validate.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\validate\\jquery.validate.css"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.extends.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.extends.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/validate/jquery.validate.extends.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\libs\\validate\\jquery.validate.extends.js"
     },
     {
-      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.js",
+      "Identity": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.js",
       "SourceId": "AspNetMvcBlog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\Projeto\\src\\AspNetMvcBlog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\",
       "BasePath": "_content/AspNetMvcBlog",
       "RelativePath": "libs/validate/jquery.validate.js",
       "AssetKind": "All",
