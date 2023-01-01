@@ -205,6 +205,42 @@
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\font-awesome.scss"
     },
     {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\JavaScript.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\JavaScript.js"
+    },
+    {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
       "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.css",
       "PackagePath": "staticwebassets\\libs\\validate\\jquery.validate.css"
     },

@@ -9,37 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspNetMvcBlog
 build_property.RootNamespace = AspNetMvcBlog
-build_property.ProjectDir = C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AzureDevOps\AspNetMvcBlog\src\AspNetMvcBlog\
+build_property.ProjectDir = C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AzureDevOps\AspNetMvcBlog\src\AspNetMvcBlog
+build_property.MSBuildProjectDirectory = C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AzureDevOps/AspNetMvcBlog/src/AspNetMvcBlog/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/AddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQWRkQ29tbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AzureDevOps/AspNetMvcBlog/src/AspNetMvcBlog/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AzureDevOps/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/Error.cshtml]
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcR2V0QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/_commentmodal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcX2NvbW1lbnRtb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/_comments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcX2NvbW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AzureDevOps/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/Parts/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRzXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/Parts/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRzXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/Parts/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRzXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AzureDevOps/AspNetMvcBlog/src/AspNetMvcBlog/Views/_ViewImports.cshtml]
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AzureDevOps/AspNetMvcBlog/src/AspNetMvcBlog/Views/_ViewStart.cshtml]
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AzureDevOps/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/_Layout.cshtml]
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-i2o5jknxcd

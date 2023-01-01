@@ -1,17 +1,46 @@
-﻿@model AspNetMvcBlog.Models.Entitys.Posts
+﻿@model AspNetMvcBlog.Models.ViewModel.PostComment 
 
 @{
-    ViewData["title"] = @Model.Title;
+    ViewData["title"] = @Model!.Posts!.Title;
 }
 
 <section>
     <div class="post">
-        <h2>@Model.Title</h2>
+        <h2>@Model.Posts.Title</h2>
         <p class="text-muted">
-            Posted on <a href="#">@Model.PublisheOn.ToShortDateString()</a>
+            Posted on <a href="#">@Model.Posts.PublisheOn.ToShortDateString()</a>
         </p>
         <div>
-            @Model.Content
+            @Model.Posts.Content
         </div>
     </div>
 </section>
+
+<section id="comments">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <div class="row">
+                <div class="col-xs-12 col-md-8"> @Model.Posts.Comments.Count Comentários</div>
+                <div class="col-xs-6 col-md-4">
+                    <button data-target="#modal-comment" data-toggle="modal" asp-action="AddComment" asp-route-id="@Model.Posts.Id" class="btn btn-primary pull-right">Add comment</button>
+                </div>
+            </div>
+        </div>
+        <div class="list-group">
+            @await Html.PartialAsync("_comments.cshtml", Model.Posts.Comments)
+        </div>
+        <div class="panel-footer">
+            <button type="button" class="btn btn-primary btn-block"> More comments
+                <i class="glyphicon glyphicon-chevron-down"></i>
+            </button>
+        </div>
+    </div>
+</section>
+
+@await Html.PartialAsync("_commentmodal.cshtml", Model)
+@section Csspage {
+    <link href="~/libs/validate/jquery.validate.css" rel="stylesheet" />
+}
+@section Scriptspage {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

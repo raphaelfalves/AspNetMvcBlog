@@ -20,10 +20,10 @@
 		}
 	});
 
-	//submit form
-	$('[data-action=add-comment]').on('click', function () {
-		$('#form-add-comment').submit();
-	});
+	////submit form
+	//$('[data-action=add-comment]').on('click', function () {
+	//	$('#form-add-comment').submit();
+	//});
 
     //load comments
 	$('#comments-list').on('click', '[data-action=load-comments]', function (e) {
