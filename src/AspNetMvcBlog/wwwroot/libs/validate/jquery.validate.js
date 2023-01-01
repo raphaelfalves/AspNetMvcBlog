@@ -255,7 +255,7 @@ $.extend($.validator, {
 				this.findByName(element.name).removeClass(errorClass).addClass(validClass);
 			} else {
 				$(element).removeClass(errorClass).addClass(validClass);
-			}
+			}field é obrigatorio
 		}
 	},
 
@@ -265,7 +265,7 @@ $.extend($.validator, {
 	},
 
 	messages: {
-		required: "This field is required.",
+		required: "Esse field é obrigatorio.",
 		remote: "Please fix this field.",
 		email: "Please enter a valid email address.",
 		url: "Please enter a valid URL.",

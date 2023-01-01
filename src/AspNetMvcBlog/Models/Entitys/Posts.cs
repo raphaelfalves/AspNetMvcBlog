@@ -20,7 +20,12 @@ namespace AspNetMvcBlog.Models.Entitys
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime PublisheOn { get; set; }
-
+        public ICollection<Comments> Comments 
+        {
+            get { return _comments ?? (_comments = new List<Comments>()); }
+            set { _comments = value; } 
+        }
+        ICollection<Comments>? _comments;
         public Posts()
         {
             PublisheOn= DateTime.Now;
