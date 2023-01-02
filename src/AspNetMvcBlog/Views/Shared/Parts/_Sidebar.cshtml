@@ -6,7 +6,7 @@
 </section>*@
 
 <section>
-    <form role="search" class="form-group">
+    <form asp-controller="Posts" asp-action="GetAll" role="search" class="form-group" method="get">
         <div class="input-group">
             <input type="text" class="form-control" name="term" placeholder="Search...">
             <span class="input-group-btn">
