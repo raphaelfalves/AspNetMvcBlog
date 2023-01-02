@@ -1,10 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Runtime.InteropServices;
 
 namespace AspNetMvcBlog.Models.Entitys
 {
     public class Posts
     {
         public int Id { get; set; }
+        public int? CategoryId { get; set; }
         
         [Required , MaxLength(100)]
         public string? Permalink { get; set; }
@@ -26,6 +28,7 @@ namespace AspNetMvcBlog.Models.Entitys
             set { _comments = value; } 
         }
         ICollection<Comments>? _comments;
+        public Category? Category { get; set; }
         public Posts()
         {
             PublisheOn= DateTime.Now;

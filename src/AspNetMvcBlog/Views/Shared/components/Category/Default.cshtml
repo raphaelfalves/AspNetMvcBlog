@@ -1,0 +1,11 @@
+﻿@model IEnumerable<AspNetMvcBlog.Models.ViewModel.CategoryItems>
+
+<section class="panel panel-default">
+    <div class="panel-heading">Categories</div>
+    <ul class="list-group">
+        @foreach(var item in Model)
+        {
+            <li class="list-group-item"><a asp-controller="Posts" asp-action="Search" asp-route-Permalink="@item.Permalink">@item.Name (@item.PostCount)</a></li>
+        }
+    </ul>
+</section>

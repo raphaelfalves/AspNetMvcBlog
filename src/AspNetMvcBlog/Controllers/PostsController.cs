@@ -16,26 +16,52 @@ namespace AspNetMvcBlog.Controllers
             _context = context;
         }
 
-        public IActionResult GetAll(string term)
+        public async Task<IActionResult> GetAll()
         {
-            if (string.IsNullOrEmpty(term))
-            {
-                var posts = _context.Posts.OrderByDescending(p => p.PublisheOn);
-                return View("ListPosts", posts);
-            }
-
             var post = _context.Posts
-                            .Where(x =>
-                            x.Title.Contains(term) ||
-                            x.Summary.Contains(term) ||
-                            x.Content.Contains(term))
-                            .OrderByDescending(x => x.PublisheOn);
-                return View("ListPosts", post);
+                .Include(c => c.Category)
+                .OrderByDescending(p => p.PublisheOn);
+
+            return View("ListPosts", post);
         }
 
+        [Route("Categoria/{Permalink?}")]
+        public IActionResult Search(string? term, string? Permalink)
+        {
+                var post = from c in _context.Posts
+                           .Include(c => c.Category)
+                           select c;
+
+            if (string.IsNullOrEmpty(term) && string.IsNullOrEmpty(Permalink))
+            {
+                post = post.OrderByDescending(c => c.PublisheOn);
+                return View("ListPosts", post);
+            }
+
+            if (!string.IsNullOrEmpty(term))
+            {
+                post = _context.Posts
+                           .Where(x =>
+                           x.Title!.Contains(term) ||
+                           x.Summary!.Contains(term) ||
+                           x.Content!.Contains(term));                
+            }
+
+            if (!string.IsNullOrEmpty(Permalink))
+            {
+                post = post.Where(c => c.Category!.Permalink == Permalink);
+            }
+            
+            post = post.OrderByDescending(c => c.PublisheOn);
+
+            return View("ListPosts", post);
+        }
+
+        [Route("Post/{Permalink}")]
         public IActionResult Details(string? Permalink)
         {
              PostComment? post = _context.Posts
+                .Include(c => c.Category)
                 .Include(c => c.Comments)
                 .FirstOrDefault(p => p.Permalink == Permalink);
             
@@ -48,6 +74,6 @@ namespace AspNetMvcBlog.Controllers
                 .Where(p => p.Posts!.Id == id)
                 .OrderByDescending(p => p.PublishOn);
             return PartialView("_comments", model);
-        }
+        }        
     }
 }
