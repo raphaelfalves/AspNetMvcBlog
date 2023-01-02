@@ -16,13 +16,23 @@ namespace AspNetMvcBlog.Controllers
             _context = context;
         }
 
-        public IActionResult GetAll()
+        public IActionResult GetAll(string term)
         {
-            var post = _context.Posts.OrderByDescending(p => p.PublisheOn);
-            return View(post);
+            if (string.IsNullOrEmpty(term))
+            {
+                var posts = _context.Posts.OrderByDescending(p => p.PublisheOn);
+                return View("ListPosts", posts);
+            }
+
+            var post = _context.Posts
+                            .Where(x =>
+                            x.Title.Contains(term) ||
+                            x.Summary.Contains(term) ||
+                            x.Content.Contains(term))
+                            .OrderByDescending(x => x.PublisheOn);
+                return View("ListPosts", post);
         }
 
-        [Route("Posts/{Permalink}")]
         public IActionResult Details(string? Permalink)
         {
              PostComment? post = _context.Posts
