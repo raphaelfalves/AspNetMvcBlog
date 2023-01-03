@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/AddComment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQWRkQ29tbWVudC5jc2h0bWw=
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/Details.cshtml]

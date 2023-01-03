@@ -8,13 +8,13 @@ namespace AspNetMvcBlog.Models.Entitys
         public int Id { get; set; }
         public int PostsId { get; set; }
 
-        [Required(ErrorMessage = "Autor é obrigatorio"), MaxLength(100)]
+        [Required(ErrorMessage = "Autor é obrigatório"), MaxLength(100)]
         public string? Author { get; set; }
 
-        [Required(ErrorMessage = "Email é obrigatorio"), MaxLength(100), DataType(DataType.EmailAddress)]
+        [Required(ErrorMessage = "Email é obrigatório"), MaxLength(100), DataType(DataType.EmailAddress)]
         public string? Email { get; set; }
 
-        [Required(ErrorMessage = "O comentario é obrigatorio"), MinLength(3)]
+        [Required(ErrorMessage = "O comentario é obrigatório"), MinLength(3)]
         public string? Content { get; set; }
 
         [Required, DisplayFormat(DataFormatString = "dd/mm/yyyy hh:mm")]

@@ -12,7 +12,7 @@
             @if(Model.Posts.Category != null)
             {
                 <span> in <a asp-controller="Posts" asp-action="Search" 
-                    asp-route-Category="@Model.Posts.Category.Permalink">
+                    asp-route-Permalink="@Model.Posts.Category.Permalink">
                     @Model.Posts.Category.Name</a>
                 </span>
             }
@@ -45,9 +45,7 @@
 </section>
 
 @await Html.PartialAsync("_commentmodal.cshtml", Model)
-@section Csspage {
-    <link href="~/libs/validate/jquery.validate.css" rel="stylesheet" />
-}
+
 @section Scriptspage {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

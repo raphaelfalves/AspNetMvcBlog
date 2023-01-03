@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\src",
-    "\\src\\AspNetMvcBlog",
-    "\\src\\AspNetMvcBlog\\Views",
-    "\\src\\AspNetMvcBlog\\Views\\Posts"
+    ""
   ],
-  "SelectedNode": "\\src\\AspNetMvcBlog.sln",
+  "SelectedNode": "\\AspNetMvcBlog.sln",
   "PreviewInSolutionExplorer": false
 }
