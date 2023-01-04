@@ -6,6 +6,7 @@
 
 ##### Linguagens e Ferramentas
 
+- .Net 7( Eu estou atualizando o projeto. <a href="https://github.com/mbanagouro/aspnetmvcblog"> Projeto original foi feito no .NET 4.8</a>)
 - Visual Studio Community
 - Azure DevOps
 - Git
@@ -45,4 +46,3 @@ Co-Founder / CTO / Arquiteto de Software / ASP.NET Sênior na Leanwork Group
 Mais de 10 anos de experiência como analista, desenvolvedor e arquiteto  
 de software com expertise em desenvolvimento de aplicações web de grande  
 porte.
-

@@ -24,14 +24,12 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
-    <Folder Include="Areas\Admin\Models\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Areas\Admin\Views\Shared\Parts\_Messages.cshtml" />
     <None Include="Areas\Admin\Views\Shared\Parts\_Navigation.cshtml" />
     <None Include="Areas\Admin\Views\Shared\Parts\_NavTop.cshtml" />
-    <None Include="Areas\Admin\Views\Shared\Parts\_Sidebar.cshtml" />
     <None Include="wwwroot\Areas\Admin\Content\css\sb-admin-2.css" />
     <None Include="wwwroot\Areas\Admin\Content\fonts\glyphicons-halflings-regular.eot" />
     <None Include="wwwroot\Areas\Admin\Content\fonts\glyphicons-halflings-regular.svg" />

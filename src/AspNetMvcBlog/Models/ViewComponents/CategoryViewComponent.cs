@@ -16,7 +16,7 @@ namespace AspNetMvcBlog.Models.ViewComponents
         public async Task<IViewComponentResult> InvokeAsync()
         {
             IQueryable<CategoryItems> model = from c in _context!.Category
-                                              select new CategoryItems
+                                               select new CategoryItems
                                               {
                                                   Id = c.Id,
                                                   Name = c.Name,

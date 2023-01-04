@@ -2,12 +2,12 @@
     <div class="sidebar-nav navbar-collapse">
         <ul class="nav" id="side-menu">
             <li>
-                <a href="@Url.RouteUrl("Admin.Dashboard.Index")" class="@SetActive(ViewBag.MenuLinkDashboard)">
+                <a asp-area="Admin" asp-controller="Dashboard" asp-action="Index" class="@SetActive(ViewBag.MenuLinkDashboard)">
                     <i class="fa fa-dashboard fa-fw"></i> Dashboard
                 </a>
             </li>
             <li>
-                <a href="@Url.RouteUrl("Admin.Posts.Index")" class="@SetActive(ViewBag.MenuLinkPosts)">
+                <a asp-area="Admin" asp-controller="Posts" asp-action="List" class="@SetActive(ViewBag.MenuLinkPosts)">
                     <i class="fa fa-file fa-fw"></i> Posts
                 </a>
             </li>
