@@ -16,7 +16,7 @@ namespace AspNetMvcBlog.Controllers
             _context = context;
         }
 
-        public async Task<IActionResult> GetAll()
+        public IActionResult GetAll()
         {
             var post = _context.Posts
                 .Include(c => c.Category)

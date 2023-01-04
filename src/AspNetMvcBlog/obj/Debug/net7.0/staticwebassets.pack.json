@@ -1,751 +1,751 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspNetMvcBlog.bundle.scp.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspNetMvcBlog.bundle.scp.css",
       "PackagePath": "staticwebassets\\AspNetMvcBlog.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\css\\sb-admin-2.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\css\\sb-admin-2.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\js\\admin.addOrEdit.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\js\\admin.addOrEdit.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\js\\admin.addOrEdit.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\js\\admin.posts.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\js\\admin.posts.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\js\\admin.posts.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\js\\jquery-1.11.0.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\js\\jquery-1.11.0.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\js\\jquery-1.11.0.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\js\\sb-admin-2.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\js\\sb-admin-2.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\js\\sb-admin-2.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\bootstrap\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\dataTables\\dataTables.bootstrap.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\dataTables\\dataTables.bootstrap.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\dataTables\\dataTables.bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\dataTables\\dataTables.bootstrap.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\dataTables\\dataTables.bootstrap.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\dataTables\\dataTables.bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\dataTables\\jquery.dataTables.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\dataTables\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\dataTables\\jquery.dataTables.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\css\\font-awesome.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\bordered-pulled.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\bordered-pulled.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\core.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\core.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\core.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\fixed-width.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\fixed-width.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\font-awesome.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\font-awesome.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\icons.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\icons.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\icons.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\larger.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\larger.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\larger.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\list.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\list.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\list.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\mixins.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\mixins.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\mixins.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\path.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\path.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\path.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\rotated-flipped.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\rotated-flipped.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\spinning.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\spinning.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\spinning.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\stacked.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\stacked.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\stacked.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\variables.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\variables.less",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\less\\variables.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_bordered-pulled.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_core.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_fixed-width.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_icons.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_larger.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_larger.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_list.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_list.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_path.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_path.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_rotated-flipped.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_spinning.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_spinning.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_spinning.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_stacked.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_stacked.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_variables.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\font-awesome.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\font-awesome-4.1.0\\scss\\font-awesome.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\animated-overlay.gif",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\animated-overlay.gif",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\animated-overlay.gif"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_flat_75_ffffff_40x100.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_flat_75_ffffff_40x100.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_65_ffffff_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_65_ffffff_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_75_dadada_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_75_dadada_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_222222_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_222222_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_222222_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_2e83ff_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_2e83ff_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_2e83ff_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_454545_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_454545_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_454545_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_888888_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_888888_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_888888_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_cd0a0a_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_cd0a0a_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\images\\ui-icons_cd0a0a_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery-ui.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery-ui.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.accordion.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.accordion.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.accordion.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.all.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.all.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.all.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.autocomplete.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.autocomplete.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.autocomplete.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.base.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.base.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.base.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.button.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.button.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.button.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.core.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.core.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.core.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.datepicker.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.datepicker.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.datepicker.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.dialog.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.dialog.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.dialog.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.menu.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.menu.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.menu.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.progressbar.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.progressbar.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.progressbar.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.resizable.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.resizable.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.resizable.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.selectable.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.selectable.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.selectable.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.slider.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.slider.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.slider.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.spinner.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.spinner.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.spinner.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.tabs.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.tabs.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.tabs.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.theme.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.theme.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.theme.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.tooltip.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.tooltip.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\jquery.ui.tooltip.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\animated-overlay.gif",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\animated-overlay.gif",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\animated-overlay.gif"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_flat_75_ffffff_40x100.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_flat_75_ffffff_40x100.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_65_ffffff_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_65_ffffff_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_75_dadada_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_75_dadada_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_95_fef1ec_1x400.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_glass_95_fef1ec_1x400.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_222222_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_222222_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_222222_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_2e83ff_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_2e83ff_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_2e83ff_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_454545_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_454545_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_454545_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_888888_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_888888_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_888888_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_cd0a0a_256x240.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_cd0a0a_256x240.png",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\images\\ui-icons_cd0a0a_256x240.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery-ui.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery-ui.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.accordion.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.accordion.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.accordion.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.autocomplete.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.autocomplete.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.autocomplete.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.button.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.button.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.button.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.core.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.core.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.core.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.datepicker.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.datepicker.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.datepicker.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.dialog.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.dialog.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.dialog.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.menu.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.menu.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.menu.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.progressbar.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.progressbar.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.progressbar.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.resizable.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.resizable.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.resizable.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.selectable.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.selectable.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.selectable.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.slider.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.slider.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.slider.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.spinner.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.spinner.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.spinner.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.tabs.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.tabs.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.tabs.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.theme.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.theme.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.theme.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.tooltip.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.tooltip.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\css\\minified\\jquery.ui.tooltip.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\js\\jquery-ui-1.10.2.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\jquery-ui\\js\\jquery-ui-1.10.2.min.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\jquery-ui\\js\\jquery-ui-1.10.2.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.min.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.min.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\metisMenu\\metisMenu.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\redactor\\redactor.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\redactor\\redactor.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\redactor\\redactor.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\redactor\\redactor.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\redactor\\redactor.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\redactor\\redactor.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.min.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\tagsinput\\jquery.tagsinput.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.css",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.extends.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.extends.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.extends.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.js",
       "PackagePath": "staticwebassets\\Areas\\Admin\\Content\\libs\\validate\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\css\\custom.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\css\\custom.css",
       "PackagePath": "staticwebassets\\css\\custom.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\images\\profile.jpg",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\images\\profile.jpg",
       "PackagePath": "staticwebassets\\images\\profile.jpg"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\images\\threedots.png",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\images\\threedots.png",
       "PackagePath": "staticwebassets\\images\\threedots.png"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\blog.contact.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\blog.contact.js",
       "PackagePath": "staticwebassets\\js\\blog.contact.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\blog.post.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\blog.post.js",
       "PackagePath": "staticwebassets\\js\\blog.post.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\html5shiv.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\html5shiv.js",
       "PackagePath": "staticwebassets\\js\\html5shiv.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.intellisense.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.intellisense.js",
       "PackagePath": "staticwebassets\\js\\jquery-2.0.3.intellisense.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.js",
       "PackagePath": "staticwebassets\\js\\jquery-2.0.3.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-2.0.3.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.min.map",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\jquery-2.0.3.min.map",
       "PackagePath": "staticwebassets\\js\\jquery-2.0.3.min.map"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\respond.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\js\\respond.min.js",
       "PackagePath": "staticwebassets\\js\\respond.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.css",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-theme.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap-theme.min.css",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap-theme.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\themes\\bootstrap.readable.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\bootstrap\\themes\\bootstrap.readable.min.css",
       "PackagePath": "staticwebassets\\libs\\bootstrap\\themes\\bootstrap.readable.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.css",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\font-awesome-ie7.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome-ie7.min.css",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\font-awesome-ie7.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\FontAwesome.otf",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\font\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\font\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\font\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\font\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\font\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\font\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\bootstrap.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\bootstrap.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\bootstrap.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\core.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\core.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\core.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\extras.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\extras.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\extras.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\font-awesome-ie7.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\font-awesome-ie7.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\font-awesome-ie7.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\font-awesome.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\icons.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\icons.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\icons.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\mixins.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\mixins.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\mixins.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\path.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\path.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\path.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\variables.less",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\less\\variables.less",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\less\\variables.less"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_bootstrap.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_bootstrap.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\_bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_core.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_extras.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_extras.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\_extras.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_icons.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_path.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_variables.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\font-awesome-ie7.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\font-awesome-ie7.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\font-awesome-ie7.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\font-awesome.scss",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\font-awesome\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\libs\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\libs\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\libs\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\JavaScript.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\JavaScript.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\JavaScript.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\libs\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.css",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.css",
       "PackagePath": "staticwebassets\\libs\\validate\\jquery.validate.css"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.extends.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.extends.js",
       "PackagePath": "staticwebassets\\libs\\validate\\jquery.validate.extends.js"
     },
     {
-      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.js",
+      "Id": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\wwwroot\\libs\\validate\\jquery.validate.js",
       "PackagePath": "staticwebassets\\libs\\validate\\jquery.validate.js"
     },
     {
