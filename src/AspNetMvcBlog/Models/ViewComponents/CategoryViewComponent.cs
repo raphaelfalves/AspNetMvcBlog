@@ -13,7 +13,7 @@ namespace AspNetMvcBlog.Models.ViewComponents
         {
             _context = context;
         }
-        public async Task<IViewComponentResult> InvokeAsync()
+        public IViewComponentResult Invoke()
         {
             IQueryable<CategoryItems> model = from c in _context!.Category
                                                select new CategoryItems

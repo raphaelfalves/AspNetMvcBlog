@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hsCDcccOl0bttUC8WxrjR3EwlyW6X+2YOWlqiDVjQFH7BDFkfiXPHs28oPmlTzdR0Sojy6eVmyc/+ZwTdtPFAQ==",
+  "dgSpecHash": "RmFnYntsKPql0GqljwJWyINrxQlrEWb1SGUmqwZbGQeCEEenaHGJT1W9jHMF9tBF2F5phrsbKi0GF18lnC+4UQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\raphael-rfa\\AspNetMvcBlog\\src\\AspNetMvcBlog\\AspNetMvcBlog.csproj",
+  "projectFilePath": "C:\\Users\\55389\\OneDrive\\Área de Trabalho\\Michel Banagouro\\AspNetMvcBlog\\src\\AspNetMvcBlog\\AspNetMvcBlog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55389\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\55389\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

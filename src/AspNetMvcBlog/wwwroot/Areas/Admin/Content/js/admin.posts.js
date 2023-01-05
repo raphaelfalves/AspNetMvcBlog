@@ -19,18 +19,18 @@
                 "sWidth": "100px",
                 "bSortable": false
             },
-            //{
-            //    "sTitle": "",
-            //    "mDataProp": "",
-            //    "sWidth": "110px",
-            //    "bSortable": false,
-            //    "mRender": function (innerData, sSpecific, oData) {
-            //        var render = '<a class="btn btn-default btn-sm" href="' + oData.EditUrl + '">Edit</a>';
-            //        render += '&nbsp;';
-            //        render += '<a class="btn btn-danger btn-sm" href="' + oData.DeleteUrl + '">Delete</a>';
-            //        return render;
-            //    }
-            //}
+            {
+                "sTitle": "",
+                "mDataProp": "",
+                "sWidth": "110px",
+                "bSortable": false,
+                "mRender": function (innerData, sSpecific, oData) {
+                    var render = '<a class="btn btn-default btn-sm" href="' + oData.editUrl + '">Edit</a>';
+                    render += '&nbsp;';
+                    render += '<a class="btn btn-danger btn-sm" href="' + oData.deleteUrl + '">Delete</a>';
+                    return render;
+                }
+            }
         ]
     });
 
