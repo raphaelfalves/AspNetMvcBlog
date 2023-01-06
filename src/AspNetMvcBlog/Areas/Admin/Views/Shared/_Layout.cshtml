@@ -39,6 +39,7 @@
     <script src="~/areas/admin/content/libs/metisMenu/metisMenu.min.js"></script>
     <!-- Custom Theme JavaScript -->
     <script src="~/areas/admin/content/js/sb-admin-2.js"></script>
-    @RenderSection("ScriptPage", false)
+    @RenderSection("ScriptPage", required: false)
+    @RenderSection("Scripts", required: false)
 </body>
 </html>

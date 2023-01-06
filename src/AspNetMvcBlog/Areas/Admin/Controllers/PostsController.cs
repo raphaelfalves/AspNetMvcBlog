@@ -4,12 +4,11 @@ using AspNetMvcBlog.Data;
 using AspNetMvcBlog.Models.Entitys;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Hosting;
 
 namespace AspNetMvcBlog.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class PostsController : BaseController
+    public class PostsController : AdminController
     {
         private readonly BlogContext? _context;
 

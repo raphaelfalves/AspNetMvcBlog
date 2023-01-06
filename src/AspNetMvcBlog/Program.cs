@@ -1,7 +1,6 @@
 using AspNetMvcBlog.Data;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using SendGrid.Helpers.Mail;
 
 namespace AspNetMvcBlog
 {
@@ -10,16 +9,28 @@ namespace AspNetMvcBlog
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddDbContext<BlogContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             // Add services to the container.
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(connectionString));
+            builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+
+            builder.Services.AddDbContext<BlogContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("BlogContextConnection")));
+
+            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+                .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            if (!app.Environment.IsDevelopment())
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseMigrationsEndPoint();
+            }
+            else
             {
                 app.UseExceptionHandler("/Home/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
@@ -33,7 +44,6 @@ namespace AspNetMvcBlog
 
             app.UseAuthorization();
 
-            
             app.MapAreaControllerRoute(
             name: "Admin",
             areaName: "Admin",
@@ -42,6 +52,8 @@ namespace AspNetMvcBlog
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Posts}/{action=GetAll}/{id?}");
+
+            app.MapRazorPages();
 
             app.Run();
         }

@@ -1,9 +1,10 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AspNetMvcBlog.Application;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AspNetMvcBlog.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class DashboardController : Controller
+    public class DashboardController : AdminController
     {
         public IActionResult Index()
         {
