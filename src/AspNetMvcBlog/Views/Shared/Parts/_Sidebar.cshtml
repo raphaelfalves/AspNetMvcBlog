@@ -8,7 +8,7 @@
 <section>
     <form asp-controller="Posts" asp-action="Search" role="search" class="form-group" method="get">
         <div class="input-group">
-            <input type="text" class="form-control" name="term" placeholder="Search...">
+            <input type="text" class="form-control" name="term" placeholder="Search..." value="@ViewData["currentFilter"]">
             <span class="input-group-btn">
                 <button class="btn btn-primary" type="submit">Go!</button>
             </span>

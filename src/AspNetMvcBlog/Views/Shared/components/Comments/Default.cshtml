@@ -1,0 +1,29 @@
+﻿@model PaginatedList<AspNetMvcBlog.Models.Entitys.Comments>
+
+@foreach(var item in Model)
+{
+    <div class="list-group-item">
+        <div class="list-group-item-heading">
+            <div class="user"><i class="icon-user"></i>@item.Author </div>
+            <div class="text-muted pull-right"><i class="icon-time"></i>@item.PublishOn</div>
+        </div>
+        <div class="list-group-item-text">
+            @item.Content
+        </div>
+    </div>
+}
+
+@if(Model.HasNextPage)
+{
+    <button 
+        data-url="@Url.Action("LoadComments", new {
+            controller = "Comment",
+            currentFilter= @ViewData["currentFilter"], 
+            pageNumber = Model.PageIndex + 1        
+            })"
+        data-action="load-comments" data-loading-text="Loadin..." 
+        class="btn btn-primary btn-block">
+        More comments
+        <i class="glyphicon glyphicon-chevron-down"></i>
+    </button>
+}

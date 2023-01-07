@@ -1,5 +1,6 @@
 using AspNetMvcBlog.Data;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Build.Framework;
 using Microsoft.EntityFrameworkCore;
 
 namespace AspNetMvcBlog
@@ -23,6 +24,13 @@ namespace AspNetMvcBlog
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddOutputCache(options =>
+            {
+                options.AddBasePolicy(builder => builder.Cache());
+                options.AddPolicy("DezSegundos", builder => builder.Expire(TimeSpan.FromSeconds(10)));
+                options.AddPolicy("OneDay", builder => builder.Expire(TimeSpan.FromDays(1)));
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -41,6 +49,8 @@ namespace AspNetMvcBlog
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseOutputCache();
 
             app.UseAuthorization();
 

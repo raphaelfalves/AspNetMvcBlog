@@ -11,8 +11,8 @@ namespace AspNetMvcBlog
         {
             text = text ?? String.Empty;
             separator = separator ?? string.Empty;
-            String value = text.Normalize(NormalizationForm.FormD).Trim();
-            StringBuilder builder = new StringBuilder();
+            _ = text.Normalize(NormalizationForm.FormD).Trim();
+            StringBuilder builder = new();
 
             foreach (char c in text.ToCharArray())
             {
@@ -22,9 +22,9 @@ namespace AspNetMvcBlog
                 }
             }
 
-            value = builder.ToString();
+            _ = builder.ToString();
             byte[] bytes = Encoding.GetEncoding("Cyrillic").GetBytes(text);
-            value = Regex.Replace(Regex.Replace(Encoding.ASCII.GetString(bytes), @"\s{2,}|[^\w]", " ", RegexOptions.ECMAScript).Trim(), @"\s+", separator);
+            string value = Regex.Replace(Regex.Replace(Encoding.ASCII.GetString(bytes), @"\s{2,}|[^\w]", " ", RegexOptions.ECMAScript).Trim(), @"\s+", separator);
 
             return value.ToLowerInvariant();
         }

@@ -16,13 +16,13 @@ namespace AspNetMvcBlog.Models.ViewComponents
         public IViewComponentResult Invoke()
         {
             IQueryable<CategoryItems> model = from c in _context!.Category
-                                               select new CategoryItems
-                                              {
-                                                  Id = c.Id,
-                                                  Name = c.Name,
-                                                  Permalink = c.Permalink,
-                                                  PostCount = c.Posts!.Count(),
-                                              };
+                                            select new CategoryItems
+                                            {
+                                                Id = c.Id,
+                                                Name = c.Name,
+                                                Permalink = c.Permalink,
+                                                PostCount = c.Posts!.Count(),
+                                            };
             return View(model);
         }
     }

@@ -1,4 +1,4 @@
-﻿@model IEnumerable<AspNetMvcBlog.Models.Entitys.Posts>
+﻿@model PaginatedList<AspNetMvcBlog.Models.Entitys.Posts>
 
 @{
     ViewData["Title"] = "Home Page";
@@ -32,4 +32,24 @@
             </p>
         </div>
     }
+
+    @{
+        var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+        var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+    }
+
+    <a asp-action="Search"
+       asp-route-permalink="@ViewData["permalink"]"
+       asp-route-currentFilter="@ViewData["currentFilter"]"
+       asp-route-pageNumber="@(Model.PageIndex - 1)"
+       class="btn btn-default @prevDisabled">
+        Previous
+    </a>
+    <a asp-action="Search"
+       asp-route-permalink="@ViewData["permalink"]"
+       asp-route-currentFilter="@ViewData["currentFilter"]"
+       asp-route-pageNumber="@(Model.PageIndex + 1)"
+       class="btn btn-default @nextDisabled">
+        Next
+    </a>
 </section>

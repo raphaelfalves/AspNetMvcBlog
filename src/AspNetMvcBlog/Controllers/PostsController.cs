@@ -1,79 +1,110 @@
-﻿using AspNetMvcBlog.Data;
+﻿using AspNetMvcBlog.Application;
+using AspNetMvcBlog.Data;
 using AspNetMvcBlog.Models.Entitys;
 using AspNetMvcBlog.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.OutputCaching;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Identity.Client;
 using System.Diagnostics;
+using System.Drawing.Printing;
 
 namespace AspNetMvcBlog.Controllers
 {
     public class PostsController : Controller
     {
+        private readonly IMemoryCache _memoryCache;
         private readonly BlogContext _context;
-
-        public PostsController(BlogContext context)
+        public PostsController(IMemoryCache memoryCache, BlogContext context )
         {
+            _memoryCache = memoryCache;
             _context = context;
         }
 
-        public IActionResult GetAll()
+        [OutputCache(PolicyName = "DezSegundos")]
+        public IActionResult GetAll(int? pageNumber)
         {
-            var post = _context.Posts
-                .Include(c => c.Category)
-                .OrderByDescending(p => p.PublisheOn);
+            int pageSize = 3;// teste
 
-            return View("ListPosts", post);
+            var model = _context.Posts
+                .Include(c => c.Category)
+                .OrderByDescending(p => p.PublisheOn)
+                .ToPaginetedList(pageNumber ?? 1, pageSize);
+
+            return View("ListPosts", model);
         }
 
+        [OutputCache(PolicyName = "DezSegundos")]
         [Route("Categoria/{Permalink?}")]
-        public IActionResult Search(string? term, string? Permalink)
+        public async Task<IActionResult> Search(string? term, string? permalink, int? pageNumber, string? currentFilter)
         {
-                var post = from c in _context.Posts
-                           .Include(c => c.Category)
-                           select c;
+            ViewData["term"] = term;
+            ViewData["permalink"] = permalink;
 
-            if (string.IsNullOrEmpty(term) && string.IsNullOrEmpty(Permalink))
+            var post = from c in _context.Posts
+                        .Include(c => c.Category)
+                        select c;
+
+
+            if (string.IsNullOrEmpty(term))
             {
-                post = post.OrderByDescending(c => c.PublisheOn);
-                return View("ListPosts", post);
+                term = currentFilter;
             }
+            else
+            {
+                pageNumber = 1;                
+            }
+
+            ViewData["currentFilter"] = term;
 
             if (!string.IsNullOrEmpty(term))
             {
-                post = _context.Posts
-                           .Where(x =>
+                post = post.Where(x =>
                            x.Title!.Contains(term) ||
                            x.Summary!.Contains(term) ||
                            x.Content!.Contains(term));                
             }
 
-            if (!string.IsNullOrEmpty(Permalink))
+            if (!string.IsNullOrEmpty(permalink))
             {
-                post = post.Where(c => c.Category!.Permalink == Permalink);
+                post = post.Where(c => c.Category!.Permalink == permalink);
             }
-            
-            post = post.OrderByDescending(c => c.PublisheOn);
 
-            return View("ListPosts", post);
+            int pageSize = 3;
+            var model = post.OrderByDescending(c => c.PublisheOn)
+                .ToPaginetedList(pageNumber ?? 1, pageSize);
+
+            return View("ListPosts", model);
         }
 
+        [OutputCache(PolicyName = "DezSegundos")]
         [Route("Post/{Permalink}")]
-        public IActionResult Details(string? Permalink)
+        public IActionResult Details(string? permalink)
         {
-             PostComment? post = _context.Posts
-                .Include(c => c.Category)
-                .Include(c => c.Comments)
-                .FirstOrDefault(p => p.Permalink == Permalink);
-            
-            return View(post);
-        }
+            var Cachekeys = "Post" + permalink;
 
-        public IActionResult LoadComment(int? id)
-        {
-            var model = _context.Comments
-                .Where(p => p.Posts!.Id == id)
-                .OrderByDescending(p => p.PublishOn);
-            return PartialView("_comments", model);
-        }        
+            PostComment model = _memoryCache.Get(Cachekeys) as PostComment;
+            if(model == null)
+            {
+                 model = _context.Posts
+                    .Include(c => c.Category)
+                    .Include(c => c.Comments)
+                    .FirstOrDefault(p => p.Permalink == permalink);
+
+
+                var cacheEntryOptions = new MemoryCacheEntryOptions()
+                    .SetSlidingExpiration(TimeSpan.FromSeconds(10));
+                cacheEntryOptions.AbsoluteExpirationRelativeToNow = 
+                    TimeSpan.FromSeconds(20) ;
+
+                _memoryCache.Set(Cachekeys, model, cacheEntryOptions);
+            }
+
+            
+            
+            return View(model);
+        }       
     }
 }

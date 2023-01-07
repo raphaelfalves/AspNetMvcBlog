@@ -4,16 +4,18 @@ using AspNetMvcBlog.Data;
 using AspNetMvcBlog.Models.Entitys;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace AspNetMvcBlog.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class PostsController : AdminController
     {
-        private readonly BlogContext? _context;
-
-        public PostsController(BlogContext? context)
+        private readonly IMemoryCache _memoryCache;
+        private readonly BlogContext _context;
+        public PostsController(IMemoryCache memoryCache, BlogContext context)
         {
+            _memoryCache = memoryCache;
             _context = context;
         }
 
@@ -82,7 +84,7 @@ namespace AspNetMvcBlog.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Save(PostModel model)
         {
-            Posts post = null;
+            Posts? post = null;
             if(model.PostId == 0)
             {
                 post = new Posts();
@@ -90,12 +92,12 @@ namespace AspNetMvcBlog.Areas.Admin.Controllers
             }
             else
             {
-                post = _context!.Posts.FirstOrDefault(x => x.Id == model.PostId);
+                post = _context!.Posts!.FirstOrDefault(x => x.Id == model.PostId);
             }
 
-            post.Title = model.Title;
-            post.Summary = model.Summary;
-            post.Content = model.Content;
+            post!.Title = model.Title;
+            post!.Summary = model.Summary;
+            post!.Content = model.Content;
 
 
             if (!String.IsNullOrWhiteSpace(model.Category))
@@ -122,6 +124,9 @@ namespace AspNetMvcBlog.Areas.Admin.Controllers
                 else
                 {
                     _context!.Posts.Update(post);
+
+                    //Removendo cache na mão
+                    _memoryCache.Remove("Post" + post.Permalink);
                 }
 
                 Success("Your post has been saved");
@@ -132,7 +137,7 @@ namespace AspNetMvcBlog.Areas.Admin.Controllers
                 Error("Your post cannot saved");
             }
 
-            _context.SaveChanges();
+            _context!.SaveChanges();
 
             return RedirectToAction("Edit", new { id = post.Id });
         }        
@@ -176,6 +181,7 @@ namespace AspNetMvcBlog.Areas.Admin.Controllers
             {
                 PostId = post.Id,
                 Title = post.Title,
+                Permalink = post.Permalink,
                 Summary = post.Summary,
                 Content = post.Content
             };

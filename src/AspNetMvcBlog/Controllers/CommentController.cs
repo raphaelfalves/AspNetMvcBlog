@@ -34,5 +34,11 @@ namespace AspNetMvcBlog.Controllers
             return RedirectToAction("Details", new RouteValueDictionary(
                     new { controller = "Posts", action = "Details", poco.Permalink }));
         }
+
+        public async Task<IActionResult> LoadComments(string? permalink, int? pageNumber, string? currentFilter)
+        {
+            return ViewComponent("Comments", 
+                new {permalink, pageNumber, currentFilter});
+        }
     }
 }
