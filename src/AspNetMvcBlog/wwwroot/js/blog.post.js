@@ -43,7 +43,7 @@
                     alert("Cannot load comments!");
                 });
 
-	    }, 2000);
+	    }, 1000);
 
 	});
 

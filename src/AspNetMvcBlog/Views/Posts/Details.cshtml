@@ -33,13 +33,8 @@
                 </div>
             </div>
         </div>
-        <div class="list-group">
-            @await Html.PartialAsync("_comments.cshtml", Model.Posts.Comments)
-        </div>
-        <div class="panel-footer">
-            <button type="button" class="btn btn-primary btn-block"> More comments
-                <i class="glyphicon glyphicon-chevron-down"></i>
-            </button>
+        <div id="comments-list" class="list-group">
+            @await Component.InvokeAsync("Comments", new { permalink = Model.Posts.Permalink, })
         </div>
     </div>
 </section>
@@ -48,4 +43,5 @@
 
 @section Scriptspage {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script src="~/js/blog.post.js"></script>
 }

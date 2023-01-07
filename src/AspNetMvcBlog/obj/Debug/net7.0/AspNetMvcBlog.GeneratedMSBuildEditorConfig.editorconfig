@@ -16,10 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Areas/Admin/Views/Auth/LogOn.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXV0aFxMb2dPbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -100,24 +96,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/ListPosts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcTGlzdFBvc3RzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Posts/_commentmodal.cshtml]
@@ -130,6 +114,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/components/Category/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGNvbXBvbmVudHNcQ2F0ZWdvcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/components/Comments/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGNvbXBvbmVudHNcQ29tbWVudHNcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/55389/OneDrive/Área de Trabalho/Michel Banagouro/AspNetMvcBlog/src/AspNetMvcBlog/Views/Shared/Error.cshtml]

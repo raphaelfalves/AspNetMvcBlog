@@ -17,11 +17,13 @@
         </a>
         <ul class="dropdown-menu dropdown-user">
             <li>
-                <a href="@Url.RouteUrl("Posts.GetAll")"><i class="fa fa-gear fa-fw"></i> Go to site</a>
+                <a asp-area="" asp-action="GetAll"><i class="fa fa-gear fa-fw"></i> Go to site</a>
             </li>
             <li class="divider"></li>
-            <li>
-                <a href="@Url.RouteUrl("Admin.Auth.LogOut")"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+            <li class="nav-item">
+                <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("GetAll", "Posts", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
             </li>
         </ul>
         <!-- /.dropdown-user -->

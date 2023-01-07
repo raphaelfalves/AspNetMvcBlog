@@ -1,27 +1,10 @@
 ﻿@model AspNetMvcBlog.Areas.Admin.Models.PostModel
 @{
-    string title = Model.PostId != 0 ? "Edit Post" : "New Post";
-    //ViewBag.Title = title;
-    //ViewBag.MenuLinkPosts = true;
+    bool edit = (Model.PostId != 0);
+    string title = edit ? "Edit Post" : "New Post";
+    ViewBag.Title = title;
+    ViewBag.MenuLinkPosts = true;
 }
-
-@*<div class="row">
-    <div class="col-lg-12">
-        <h1 class="page-header">
-            @title
-            <div class="btn-group pull-right">
-                <a asp-action="Index" class="btn btn-primary">
-                    <i class="fa fa-arrow-circle-left"></i> Back
-                </a>
-                @if (edit)
-                {
-                    <a href="@Url.RouteUrl("Posts.Details", new { permalink = Model.Permalink })" target="_blank" class="btn btn-default">View on site</a>
-                }
-            </div>
-        </h1>
-    </div>
-    <!-- /.col-lg-12 -->
-</div>*@
 
 <div class="row">
     <div class="col-lg-12">
@@ -31,10 +14,14 @@
                 <a asp-action="Index" class="btn btn-primary">
                     <i class="fa fa-arrow-circle-left"></i> Back
                 </a>
+                @if (edit)
+                {
+                    <a href="@Url.Action("Details", "Posts", new { Area="" , Permalink= Model.Permalink} )" target="_blank" class="btn btn-default">View on site</a>
+                }
             </div>
         </div>
     </div>
-    <!--/.col-lg-12 -->
+    <!-- /.col-lg-12 -->
 </div>
 
 @await Html.PartialAsync("Parts/_Messages")
