@@ -75,11 +75,13 @@
     <script src="~/Areas/Admin/Content/libs/validate/jquery.validate.extends.js"></script>
     <script>
         jQuery(function ($) {
+
             $postBody = $('#post-body')
 
             $postBody.redactor({
                 minHeight: 355,
-                placeholder: 'Add Content here...'
+                placeholder: 'Add Content here...',
+                imageUpload: "/api/images/upload"
             });
 
             $('#post-form').validate({

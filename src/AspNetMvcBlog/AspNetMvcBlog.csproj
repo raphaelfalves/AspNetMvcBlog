@@ -8,14 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Application\PagedList.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Remove="Views\Posts\_Paging.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.14.1" />
+    <PackageReference Include="Azure.Storage.Common" Version="12.13.0" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="7.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="7.0.1" />
