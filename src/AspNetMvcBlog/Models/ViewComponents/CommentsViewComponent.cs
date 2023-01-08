@@ -27,14 +27,14 @@ namespace AspNetMvcBlog.Models.ViewComponents
 
             ViewData["currentFilter"] = permalink;
 
+            int pageSize = 3;
             var model = _context!.Comments
                 .Include(p => p.Posts)
                 .Where(p => p.Posts!.Permalink == permalink)
                 .OrderByDescending(p => p.PublishOn)
-                .AsQueryable();
+                .ToPaginetedList(pageNumber ?? 1, pageSize);
 
-            int pageSize = 3;
-            return View(await PaginatedList<Comments>.CreateAsync(model.AsNoTracking(), pageNumber ?? 1, pageSize)); ;
+            return View(model); ;
         }
     }
 }

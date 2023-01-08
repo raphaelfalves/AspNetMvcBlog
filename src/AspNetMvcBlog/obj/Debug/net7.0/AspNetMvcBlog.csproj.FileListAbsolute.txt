@@ -570,3 +570,6 @@ C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\Asp
 C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog\obj\Debug\net7.0\AspNetMvcBlog.pdb
 C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog\obj\Debug\net7.0\AspNetMvcBlog.genruntimeconfig.cache
 C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog\obj\Debug\net7.0\ref\AspNetMvcBlog.dll
+C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog\bin\Debug\net7.0\Azure.Storage.Blobs.dll
+C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog\bin\Debug\net7.0\Azure.Storage.Common.dll
+C:\Users\55389\OneDrive\Área de Trabalho\Michel Banagouro\AspNetMvcBlog\src\AspNetMvcBlog\bin\Debug\net7.0\System.IO.Hashing.dll

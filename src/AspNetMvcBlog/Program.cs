@@ -1,3 +1,4 @@
+using AspNetMvcBlog.Areas.Admin.Models.AzureModels;
 using AspNetMvcBlog.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Build.Framework;
@@ -18,11 +19,13 @@ namespace AspNetMvcBlog
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
             builder.Services.AddDbContext<BlogContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("BlogContextConnection")));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
 
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             builder.Services.AddControllersWithViews();
+
+            builder.Services.Configure<AzureStorageConfig>(builder.Configuration.GetSection("AzureStorageConfig"));
 
             builder.Services.AddOutputCache(options =>
             {
@@ -52,6 +55,7 @@ namespace AspNetMvcBlog
 
             app.UseOutputCache();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapAreaControllerRoute(
