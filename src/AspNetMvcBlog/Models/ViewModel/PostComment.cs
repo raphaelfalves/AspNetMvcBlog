@@ -14,15 +14,6 @@ namespace AspNetMvcBlog.Models.ViewModel
             pc = new PostComment() { Posts = p, Comment = comments};
             return pc;
 
-        }
-        public IEnumerable<string> GetTags()
-        {
-            if (String.IsNullOrWhiteSpace(Posts!.Tags))
-            {
-                return Enumerable.Empty<string>();
-            }
-
-            return Posts.Tags.Split(',');
-        }
+        }        
     }
 }

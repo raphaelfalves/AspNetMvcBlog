@@ -36,5 +36,15 @@ namespace AspNetMvcBlog.Models.Entitys
         {
             PublisheOn= DateTime.Now;
         }
+
+        public IEnumerable<string> GetTags()
+        {
+            if (String.IsNullOrWhiteSpace(Tags))
+            {
+                return Enumerable.Empty<string>();
+            }
+
+            return Tags.Split(',');
+        }
     }
 }

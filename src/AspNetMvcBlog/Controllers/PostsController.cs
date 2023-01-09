@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Identity.Client;
+using Microsoft.IdentityModel.Tokens;
 using System.Diagnostics;
 using System.Drawing.Printing;
 
@@ -38,10 +39,10 @@ namespace AspNetMvcBlog.Controllers
 
         [OutputCache(PolicyName = "DezSegundos")]
         [Route("Categoria/{Permalink?}")]
-        public IActionResult Search(string? term, string? permalink, int? pageNumber, string? currentFilter)
+        public IActionResult Search(string? term, string? permalink, int? pageNumber, string? currentFilter, string? tag)
         {
-            ViewData["term"] = term;
             ViewData["permalink"] = permalink;
+            ViewData["tag"] = tag;
 
             var post = from c in _context.Posts
                         .Include(c => c.Category)
@@ -70,6 +71,12 @@ namespace AspNetMvcBlog.Controllers
             if (!string.IsNullOrEmpty(permalink))
             {
                 post = post.Where(c => c.Category!.Permalink == permalink);
+            }
+
+            if(!string.IsNullOrEmpty(tag))
+            {
+                 post = _context.Posts
+                .Where(x => x.Tags.Contains(tag));
             }
 
             int pageSize = 3;

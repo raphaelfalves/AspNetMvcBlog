@@ -42,6 +42,7 @@
     <a asp-action="Search"
        asp-route-permalink="@ViewData["permalink"]"
        asp-route-currentFilter="@ViewData["currentFilter"]"
+       asp-route-tag="@ViewData["tag"]"
        asp-route-pageNumber="@(Model.PageIndex - 1)"
        class="btn btn-default @prevDisabled">
         Previous
@@ -49,6 +50,7 @@
     <a asp-action="Search"
        asp-route-permalink="@ViewData["permalink"]"
        asp-route-currentFilter="@ViewData["currentFilter"]"
+       asp-route-tag="@ViewData["tag"]"
        asp-route-pageNumber="@(Model.PageIndex + 1)"
        class="btn btn-default @nextDisabled">
         Next
