@@ -15,5 +15,14 @@ namespace AspNetMvcBlog.Models.ViewModel
             return pc;
 
         }
+        public IEnumerable<string> GetTags()
+        {
+            if (String.IsNullOrWhiteSpace(Posts!.Tags))
+            {
+                return Enumerable.Empty<string>();
+            }
+
+            return Posts.Tags.Split(',');
+        }
     }
 }

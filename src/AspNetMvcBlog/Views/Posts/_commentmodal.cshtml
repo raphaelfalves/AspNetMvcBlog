@@ -8,8 +8,8 @@
             </div>
             <form asp-controller="Comment" asp-action="AddComment">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-                <input type="hidden" asp-for="Posts.Id" />
-                <input type="hidden" asp-for="Comment.Id" />
+                <input type="hidden" asp-for="Posts!.Id" />
+                <input type="hidden" asp-for="Comment!.Id" />
                 <div class="modal-body">
                     <div class="row">
                         <div class="form-group col-md-6">

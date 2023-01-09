@@ -3,15 +3,18 @@ using AspNetMvcBlog.Models.Entitys;
 using AspNetMvcBlog.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
+using Microsoft.Extensions.Hosting;
 
 namespace AspNetMvcBlog.Controllers
 {
     public class CommentController : Controller
     {
+        private readonly IMemoryCache _memoryCache;
         private readonly BlogContext _context;
-
-        public CommentController(BlogContext context)
+        public CommentController(IMemoryCache memoryCache, BlogContext context)
         {
+            _memoryCache = memoryCache;
             _context = context;
         }
 
@@ -23,16 +26,17 @@ namespace AspNetMvcBlog.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddComment(PostComment comments)
+        public async Task<IActionResult> AddComment(PostComment? comments)
         {
             Posts? poco = await _context.Posts.FindAsync(comments.Posts.Id);
             Comments comment = comments.Comment;
-            comment.PostsId = comments.Posts.Id;
+            comment.PostsId = poco.Id;
             _context.Comments.Add(comment);
             _context.SaveChanges();
 
-            return RedirectToAction("Details", new RouteValueDictionary(
-                    new { controller = "Posts", action = "Details", poco.Permalink }));
+            _memoryCache.Remove("Post" + poco.Permalink);
+
+            return RedirectToAction("Details", new { controller = "Posts", permalink = poco.Permalink });
         }
 
         public async Task<IActionResult> LoadComments(string? permalink, int? pageNumber, string? currentFilter)

@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AspNetMvcBlog.Migrations
 {
     [DbContext(typeof(BlogContext))]
-    [Migration("20230102115553_Category")]
-    partial class Category
+    [Migration("20230108193840_Tags")]
+    partial class Tags
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -111,6 +111,11 @@ namespace AspNetMvcBlog.Migrations
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
 
+                    b.Property<string>("Tags")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasMaxLength(70)
@@ -136,11 +141,11 @@ namespace AspNetMvcBlog.Migrations
 
             modelBuilder.Entity("AspNetMvcBlog.Models.Entitys.Posts", b =>
                 {
-                    b.HasOne("AspNetMvcBlog.Models.Entitys.Category", "Catecory")
+                    b.HasOne("AspNetMvcBlog.Models.Entitys.Category", "Category")
                         .WithMany("Posts")
                         .HasForeignKey("CategoryId");
 
-                    b.Navigation("Catecory");
+                    b.Navigation("Category");
                 });
 
             modelBuilder.Entity("AspNetMvcBlog.Models.Entitys.Category", b =>

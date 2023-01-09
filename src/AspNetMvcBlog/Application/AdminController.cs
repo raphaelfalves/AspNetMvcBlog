@@ -1,13 +1,13 @@
-﻿//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Web;
-//using System.Web.Mvc;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
 
-//namespace AspNetMvcBlog.Application
-//{
-//    [Authorize]
-//    public class AdminController : BaseController
-//    {
-//    }
-//}
+namespace AspNetMvcBlog.Application
+{
+    [Authorize]
+    public class AdminController : BaseController
+    {
+    }
+}

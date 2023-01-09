@@ -29,6 +29,7 @@
                 <a class="btn btn-primary btn-sm" asp-action="Details" asp-route-Permalink="@item.Permalink">
                     <i class="glyphicon glyphicon-circle-arrow-right"></i>&nbsp; Read more 
                 </a>
+                @await Html.PartialAsync("_AdminActions.cshtml", item)
             </p>
         </div>
     }

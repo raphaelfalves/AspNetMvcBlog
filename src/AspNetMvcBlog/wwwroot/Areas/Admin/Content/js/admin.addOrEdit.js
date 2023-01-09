@@ -6,7 +6,7 @@
     $postBody.redactor({
         minHeight: 355,
         placeholder: 'Add content here...',
-        imageUpload: $postBody.attr('data-upload')
+        imageUpload: "/api/images/upload"
     });
 
     $('#post-form').validate({
@@ -22,7 +22,7 @@
     });
 
     $inputCategory.autocomplete({
-        source: $inputCategory.attr('data-ajax-source')
+        source: '/Admin/AutoComplete/Categories'
     });
 
 });

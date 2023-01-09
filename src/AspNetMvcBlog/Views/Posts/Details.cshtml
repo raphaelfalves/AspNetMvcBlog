@@ -20,6 +20,14 @@
         <div>
             @Html.Raw(Model.Posts.Content)            
         </div>
+        <p>
+            <i class="icon-tags"></i>&nbsp;Tags:
+            @foreach(var tag in Model.GetTags())
+            {
+                <span class="label label-primary">@tag</span>
+            }
+        </p>
+        @await Html.PartialAsync("_AdminActions.cshtml", Model.Posts)
     </div>
 </section>
 

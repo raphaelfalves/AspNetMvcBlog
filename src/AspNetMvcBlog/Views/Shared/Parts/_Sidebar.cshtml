@@ -1,11 +1,4 @@
-﻿@*<section>
-    <div class="profile">
-        <a href="#"><img src="~/images/profile.jpg" alt="Your name" class="img-circle" width="120"></a>
-        <p class="lead">Your name</p>
-    </div>
-</section>*@
-
-<section>
+﻿<section>
     <form asp-controller="Posts" asp-action="Search" role="search" class="form-group" method="get">
         <div class="input-group">
             <input type="text" class="form-control" name="term" placeholder="Search..." value="@ViewData["currentFilter"]">
@@ -15,27 +8,3 @@
         </div>
     </form>
 </section>
-
-
-
-@*<section class="panel panel-default">
-    <div class="panel-heading">Tags</div>
-    <ul>
-        <li class="list-group-item">
-            <a href="#"><span class="label label-primary">travel</span></a>
-            <a href="#"><span class="label label-primary">business</span></a>
-            <a href="#"><span class="label label-primary">startup</span></a>
-            <a href="#"><span class="label label-primary">health</span></a>
-        </li>
-    </ul>
-</section>
-
-<section class="panel panel-default">
-    <div class="panel-heading">Archives</div>
-    <ul class="list-group">
-        <li class="list-group-item"><a href="#">Popular Post</a></li>
-        <li class="list-group-item"><a href="#">Last week</a></li>
-        <li class="list-group-item"><a href="#">Last mouth</a></li>
-        <li class="list-group-item"><a href="#">Last year</a></li>
-    </ul>
-</section>*@

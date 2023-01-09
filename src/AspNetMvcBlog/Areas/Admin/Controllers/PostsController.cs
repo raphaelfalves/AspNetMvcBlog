@@ -98,6 +98,7 @@ namespace AspNetMvcBlog.Areas.Admin.Controllers
             post!.Title = model.Title;
             post!.Summary = model.Summary;
             post!.Content = model.Content;
+            post!.Tags = model.Tags;
 
 
             if (!String.IsNullOrWhiteSpace(model.Category))
@@ -183,7 +184,8 @@ namespace AspNetMvcBlog.Areas.Admin.Controllers
                 Title = post.Title,
                 Permalink = post.Permalink,
                 Summary = post.Summary,
-                Content = post.Content
+                Content = post.Content,
+                Tags = post.Tags
             };
             if (post.Category != null)
             {

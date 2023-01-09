@@ -2,10 +2,11 @@
 using Microsoft.AspNetCore.Mvc;
 using SendGrid.Helpers.Mail;
 using SendGrid;
+using AspNetMvcBlog.Application;
 
 namespace AspNetMvcBlog.Controllers
 {
-    public class ContactController : Controller
+    public class ContactController : BaseController
     {
         public IActionResult Index()
         {
@@ -21,11 +22,13 @@ namespace AspNetMvcBlog.Controllers
             var subject = "Email de Contato do Blog ASP.NET MVC";
             var to = new EmailAddress(model.Email, model.Name);
             var plainTextContent = "Seu E-mail foi enviado com sucesso e logo responderemos";
-            var htmlContent = "<span>Seu E-mail ' </span><em>" + model.Message + "</em><span> ' foi enviado com sucesso e <strong>logo</strong> responderemos.</span>";
+            var htmlContent = "<span>Seu E-mail ' </span><em>" + model.Message + "</em><span> ' foi enviado com sucesso e <strong>logo</strong> responderemos.(MENTIRA kkkk)</span>";
             var msg = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent, htmlContent);
             await client.SendEmailAsync(msg);
 
-            return View();
+            Success("E-mail enviado");
+
+            return RedirectToAction("Index");
         }
     }
 }
