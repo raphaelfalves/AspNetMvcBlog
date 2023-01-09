@@ -2,12 +2,12 @@
 
 <img width="52%" align="left" height="auto" src="https://storage.googleapis.com/assets.kiwify.com.br/PQ1efkcHFZfsSAM/COVER_ASPNET_6dc8ed55c93348f09a6780729fc51e05_fcd0c598a3fe4e5683294c88b95d55cd.png" alt="Logo do Curso"/>
 </br>
-Ganhei esse curso do <a href="https://github.com/mbanagouro">Michel Banagouro</a> que tem um coração imenso ao qual agradeço de MAIS. O projeto do curso foi originalmente contruido no .Net Framework 4.5 já que o curso foi feito em 2014, mas tenho certeza de que esse detalhe só agregou mais ao meu aprendizado e conhecimento já que o meu projeto foi feito no .Net 7, essa decisão me forneceu um caminho diferente dos cursos de hoje, o padrão copia e cola foi totalmente abandonado na marra, já que em grande parte das vezes isso não funcionava e ainda quebrava o codigo, <b>debugar e pesquisar</b> virou o lema nessas 2 semanas e isso me ensinou de verdade a como pesquisar e resolver problemas, essa experiência me fez evoluir muito e só tenho a agradecer ao Michel.
+Ganhei esse curso do <a href="https://github.com/mbanagouro">Michel Banagouro</a> que tem um coração imenso ao qual agradeço de MAIS. O projeto do curso foi originalmente construido no .Net Framework 4.5 já que o curso foi feito em 2014, mas tenho certeza de que esse detalhe só agregou mais ao meu aprendizado e conhecimento já que o meu projeto foi feito no .Net 7, essa decisão me forneceu um caminho diferente dos cursos de hoje, o padrão copia e cola foi totalmente abandonado na marra, já que em grande parte das vezes isso não funcionava e ainda quebrava o codigo, <b>debugar e pesquisar</b> virou o lema nessas semanas e isso me ensinou de verdade a como pesquisar e resolver problemas, essa experiência me fez evoluir muito e só tenho a agradecer ao Michel Banagouro.
 </br>
 
 ## Blog
 
-Diversas mudanças foram feitas no código mas nenhuma funcionalidade foi deixada para trás, meu projeto mantém todas as funcionalidades da aplicação original ou as melhoram.(Mudanças feitas no fim do Readme)
+Diversas mudanças foram feitas no código mas nenhuma funcionalidade foi deixada para trás, meu projeto mantém todas as funcionalidades da aplicação original ou as melhoram. (Mudanças feitas no fim do Readme)
 
 #### Linguagens e Ferramentas
 
