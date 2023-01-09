@@ -22,9 +22,11 @@
         </div>
         <p>
             <i class="icon-tags"></i>&nbsp;Tags:
-            @foreach(var tag in Model.GetTags())
+            @foreach(var tag in Model.Posts.GetTags())
             {
-                <span class="label label-primary">@tag</span>
+                <a asp-action="Search" asp-route-tag="@tag">
+                    <span class="label label-primary">@tag</span>
+                </a>
             }
         </p>
         @await Html.PartialAsync("_AdminActions.cshtml", Model.Posts)
