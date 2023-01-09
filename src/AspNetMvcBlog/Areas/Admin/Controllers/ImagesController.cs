@@ -1,4 +1,5 @@
 ﻿using AspNetMvcBlog;
+using AspNetMvcBlog.Areas.Admin.Controllers;
 using AspNetMvcBlog.Areas.Admin.Models.AzureModels;
 using ImageResizeWebApp.Helpers;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +8,7 @@ using Microsoft.Extensions.Options;
 namespace ImageResizeWebApp.Controllers
 {
     [Route("api/[controller]")]
-    public class ImagesController : Controller
+    public class ImagesController : AdminController
     {
         // make sure that appsettings.json is filled with the necessary details of the azure storage
         private readonly AzureStorageConfig storageConfig = null;

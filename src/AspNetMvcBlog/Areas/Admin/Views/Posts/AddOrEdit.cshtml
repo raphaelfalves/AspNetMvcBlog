@@ -46,12 +46,12 @@
                 </div>
                 <div class="form-group">
                     <label for="inputCategory">Category</label>
-                    <input type="text" id="inputCategory" name="category" class="form-control input-block-level" value="@Model.Category" data-ajax-source="@Url.RouteUrl("Admin.Autocomplete.Categories")">
+                    <input type="text" id="inputCategory" name="category" class="form-control input-block-level" value="@Model.Category">
                 </div>
-                @*<div class="form-group">
+                <div class="form-group">
                     <label for="inputTags">Tags</label>
-                    <input type="text" id="inputTags" name="tags" class="form-control input-block-level" value="@Model.Tags">
-                </div>*@
+                    <input type="text" id="inputTags" name="tags" class="form-control input-block-level" value="@Model.Tags" required>
+                </div>
                 <div class="form-group">
                     <button type="submit" class="btn btn-lg btn-success btn-block">Save</button>
                 </div>
@@ -61,38 +61,17 @@
 </div>
 
 @section CssPage {
-@*    <link href="~/Areas/Admin/Content/libs/jquery-ui/css/minified/jquery-ui.min.css" rel="stylesheet" />
-    <link href="~/Areas/Admin/Content/libs/tagsinput/jquery.tagsinput.css" rel="stylesheet" />*@
+    <link href="~/Areas/Admin/Content/libs/jquery-ui/css/minified/jquery-ui.min.css" rel="stylesheet" />
+    <link href="~/Areas/Admin/Content/libs/tagsinput/jquery.tagsinput.css" rel="stylesheet" />
     <link href="~/Areas/Admin/Content/libs/redactor/redactor.css" rel="stylesheet" />
     <link href="~/Areas/Admin/Content/libs/validate/jquery.validate.css" rel="stylesheet" />
 }
 
 @section ScriptPage {
-    @*<script src="~/Areas/Admin/Content/libs/jquery-ui/js/jquery-ui-1.10.2.min.js"></script>
-    <script src="~/Areas/Admin/Content/libs/tagsinput/jquery.tagsinput.min.js"></script>*@
+    <script src="~/Areas/Admin/Content/libs/jquery-ui/js/jquery-ui-1.10.2.min.js"></script>
+    <script src="~/Areas/Admin/Content/libs/tagsinput/jquery.tagsinput.min.js"></script>
     <script src="~/Areas/Admin/Content/libs/redactor/redactor.js"></script>
     <script src="~/Areas/Admin/Content/libs/validate/jquery.validate.js"></script>
     <script src="~/Areas/Admin/Content/libs/validate/jquery.validate.extends.js"></script>
-    <script>
-        jQuery(function ($) {
-
-            $postBody = $('#post-body')
-
-            $postBody.redactor({
-                minHeight: 355,
-                placeholder: 'Add Content here...',
-                imageUpload: "/api/images/upload"
-            });
-
-            $('#post-form').validate({
-                rules: {
-                    title: 'required',
-                    summary: 'required'
-                }
-            });
-
-        });
-
-    </script>
-    @*<script src="~/Areas/Admin/Content/js/admin.addOrEdit.js"></script>*@
+    <script src="~/Areas/Admin/Content/js/admin.addOrEdit.js"></script>
 }

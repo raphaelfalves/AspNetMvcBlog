@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-
-namespace AspNetMvcBlog
+﻿namespace AspNetMvcBlog
 {
     public class PaginatedList<T> : List<T>
     {

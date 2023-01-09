@@ -1,0 +1,7 @@
+﻿@model AspNetMvcBlog.Models.Entitys.Posts
+
+@if(User.Identity!.IsAuthenticated)
+{
+    <a href="@Url.Action("Edit", "Posts", new {Area = "Admin", id = Model.Id})" class="btn btn-sm btn-success">Edit</a>
+    <a href="@Url.Action("Delete", "Posts", new {Area = "Admin", id = Model.Id})" class="btn btn-sm btn-danger">Delete</a>
+}

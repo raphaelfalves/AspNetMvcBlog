@@ -17,7 +17,10 @@ namespace AspNetMvcBlog.Models.Entitys
         public string? Summary { get; set; }
 
         public string? Content { get; set; }
-        
+
+        [Required, MaxLength(100)]
+        public string? Tags { get; set; }
+
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:dd-MM-yyyy}", ApplyFormatInEditMode = true)]
         public DateTime PublisheOn { get; set; }
@@ -26,12 +29,12 @@ namespace AspNetMvcBlog.Models.Entitys
             get { return _comments ?? (_comments = new List<Comments>()); }
             set { _comments = value; } 
         }
+        
         ICollection<Comments>? _comments;
         public Category? Category { get; set; }
         public Posts()
         {
             PublisheOn= DateTime.Now;
         }
-
     }
 }

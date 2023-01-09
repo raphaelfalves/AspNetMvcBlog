@@ -38,14 +38,14 @@ namespace AspNetMvcBlog.Controllers
 
         [OutputCache(PolicyName = "DezSegundos")]
         [Route("Categoria/{Permalink?}")]
-        public async Task<IActionResult> Search(string? term, string? permalink, int? pageNumber, string? currentFilter)
+        public IActionResult Search(string? term, string? permalink, int? pageNumber, string? currentFilter)
         {
             ViewData["term"] = term;
             ViewData["permalink"] = permalink;
 
             var post = from c in _context.Posts
                         .Include(c => c.Category)
-                        select c;
+                       select c;
 
 
             if (string.IsNullOrEmpty(term))
@@ -54,7 +54,7 @@ namespace AspNetMvcBlog.Controllers
             }
             else
             {
-                pageNumber = 1;                
+                pageNumber = 1;
             }
 
             ViewData["currentFilter"] = term;
@@ -64,7 +64,7 @@ namespace AspNetMvcBlog.Controllers
                 post = post.Where(x =>
                            x.Title!.Contains(term) ||
                            x.Summary!.Contains(term) ||
-                           x.Content!.Contains(term));                
+                           x.Content!.Contains(term));
             }
 
             if (!string.IsNullOrEmpty(permalink))
@@ -78,6 +78,7 @@ namespace AspNetMvcBlog.Controllers
 
             return View("ListPosts", model);
         }
+        
 
         [OutputCache(PolicyName = "DezSegundos")]
         [Route("Post/{Permalink}")]
@@ -85,7 +86,7 @@ namespace AspNetMvcBlog.Controllers
         {
             var Cachekeys = "Post" + permalink;
 
-            PostComment model = _memoryCache.Get(Cachekeys) as PostComment;
+            PostComment? model = _memoryCache.Get(Cachekeys) as PostComment;
             if(model == null)
             {
                  model = _context.Posts

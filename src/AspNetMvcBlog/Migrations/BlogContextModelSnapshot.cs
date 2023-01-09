@@ -4,7 +4,6 @@ using AspNetMvcBlog.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -12,11 +11,9 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AspNetMvcBlog.Migrations
 {
     [DbContext(typeof(BlogContext))]
-    [Migration("20230101091457_Comments")]
-    partial class Comments
+    partial class BlogContextModelSnapshot : ModelSnapshot
     {
-        /// <inheritdoc />
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -24,6 +21,29 @@ namespace AspNetMvcBlog.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("AspNetMvcBlog.Models.Entitys.Category", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(80)
+                        .HasColumnType("nvarchar(80)");
+
+                    b.Property<string>("Permalink")
+                        .IsRequired()
+                        .HasMaxLength(80)
+                        .HasColumnType("nvarchar(80)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Category", (string)null);
+                });
 
             modelBuilder.Entity("AspNetMvcBlog.Models.Entitys.Comments", b =>
                 {
@@ -39,6 +59,7 @@ namespace AspNetMvcBlog.Migrations
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<string>("Content")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
@@ -46,7 +67,7 @@ namespace AspNetMvcBlog.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<int?>("PostsId")
+                    b.Property<int>("PostsId")
                         .HasColumnType("int");
 
                     b.Property<DateTime?>("PublishOn")
@@ -68,6 +89,9 @@ namespace AspNetMvcBlog.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<int?>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Content")
                         .HasColumnType("nvarchar(max)");
 
@@ -84,12 +108,19 @@ namespace AspNetMvcBlog.Migrations
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
 
+                    b.Property<string>("Tags")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasMaxLength(70)
                         .HasColumnType("nvarchar(70)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
 
                     b.ToTable("Posts", (string)null);
                 });
@@ -98,8 +129,24 @@ namespace AspNetMvcBlog.Migrations
                 {
                     b.HasOne("AspNetMvcBlog.Models.Entitys.Posts", "Posts")
                         .WithMany("Comments")
-                        .HasForeignKey("PostsId");
+                        .HasForeignKey("PostsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
+                    b.Navigation("Posts");
+                });
+
+            modelBuilder.Entity("AspNetMvcBlog.Models.Entitys.Posts", b =>
+                {
+                    b.HasOne("AspNetMvcBlog.Models.Entitys.Category", "Category")
+                        .WithMany("Posts")
+                        .HasForeignKey("CategoryId");
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("AspNetMvcBlog.Models.Entitys.Category", b =>
+                {
                     b.Navigation("Posts");
                 });
 
