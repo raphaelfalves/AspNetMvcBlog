@@ -23,8 +23,6 @@ Foram feitas várias alterações no código, mas nenhuma funcionalidade foi dei
 
 ### Lean Education / Leanwork Group
 
-![Logo da empresa em que vou trabalhar](https://media.licdn.com/dms/image/C4D0BAQHyEZH9yIkdMA/company-logo_200_200/0/1660671071509?e=1680739200&v=beta&t=5vbriGE2IVut3QoY_KN8StSuiZ2fhtssIQaTUSoFuM4)
-
 A Leanwork oferece soluções de transformação digital para o varejo, como aplicativos nativos e uma plataforma de comércio digital para empresas que estão pensando à frente do seu tempo e conectadas com o futuro. Isso proporciona autonomia, customização e exclusividade para que as marcas aproveitem tudo o que a tecnologia de ponta pode agregar ao negócio. A empresa conta ainda com uma equipe de alta performance que oferece todo o suporte necessário para as empresas se manterem à frente no comércio digital.
 
 ### Professor: Michel Banagouro
